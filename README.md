@@ -5,6 +5,7 @@ MAC db parser for Cisco show mac-address dynamic output
 
 
 sh mac-add dyn
+
 vlan   mac address     type    learn     age              ports
 *  124  0021.5e97.7b34   dynamic  Yes         30   Te1/3
       
