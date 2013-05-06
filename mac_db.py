@@ -20,6 +20,7 @@ class Mac_db(Super_dict):
         201    000c.29e0.cd3e   dynamic ip,ipx,assigned,other GigabitEthernet2/9
         
         self.dict_db format is [mac][host_port_vlan][date]    
+        (c) 2012, 2013 Intelligent Planet Ltd
         """
         
         self.verbose = 0
